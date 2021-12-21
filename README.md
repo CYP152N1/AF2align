@@ -49,3 +49,24 @@ additional arguments were shown below.
 '-al2', default=0,              help='The point (al3) shift on xy-plane'; 3/4 of residue number was used for alignment'; 2/4 of residue number was used for alignment
 
 '-al3', default=0,              help='Center the mid point of al1 and al3, the point (al3) shift on x-asis and opozit site of al1'
+
+
+# Logs
+![image](https://user-images.githubusercontent.com/87903303/146928560-18d1f41e-a519-45b0-8e2e-db96c521665d.png)
+
+![image](https://user-images.githubusercontent.com/87903303/146928607-3b59b8cf-4f2a-4f87-b3f7-2e7cf72c0ef0.png)
+
+![image](https://user-images.githubusercontent.com/87903303/146928650-826f2ec2-e96a-43d2-adb1-70c8f702d0ad.png)
+
+# Output
+
+??_plddt.csv
+
+![image](https://user-images.githubusercontent.com/87903303/146928814-b3e4fb53-1af5-40dd-8ddc-5d147a5f9bad.png)
+
+
+??_pae_m?_???.csv
+
+![image](https://user-images.githubusercontent.com/87903303/146930311-4ae03f9b-d15b-4797-8473-afafbb7c9eea.png)
+
+
