@@ -50,6 +50,9 @@ additional arguments were shown below.
 
 '-al3', default=0,              help='Center the mid point of al1 and al3, the point (al3) shift on x-asis and opozit site of al1'
 
+# Alignment Examples
+
+![image](https://user-images.githubusercontent.com/87903303/146930576-c7e6c776-833e-421a-8a42-b8f64f9cdfef.png)
 
 # Logs
 ![image](https://user-images.githubusercontent.com/87903303/146928560-18d1f41e-a519-45b0-8e2e-db96c521665d.png)
