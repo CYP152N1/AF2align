@@ -2,6 +2,8 @@
 
 The program align output pdb file and extract pae plddt values to [.csv] for Alphafold 2.1.1
 
+The programs was forked from plddt2csv ()
+
 # Install
 
 $ cd /path/to/storage/
