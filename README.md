@@ -4,6 +4,10 @@ The program align output pdb file and extract pae plddt values to [.csv] for Alp
 
 The programs was forked from plddt2csv (https://github.com/CYP152N1/plddt2csv)
 
+Introduction movie was upload on Youtube.
+
+https://youtu.be/sDsV7pr6T_A?t=358
+
 # Install
 
 $ cd /path/to/storage/
